@@ -136,15 +136,7 @@ I do not offer support for illegal use cases, but I will help you reach your goa
 
 If EvilWAF has been useful to you, consider supporting its development. Your contribution helps keep this project maintained and growing.
 
-<p align="center">
-  <a href="https://store.pesapal.com/supportmywork">
-    <img src="https://img.shields.io/badge/Donate-Support%20the%20Project-brightgreen?style=for-the-badge" alt="Donate">
-  </a>
-</p>
 
-**[Donate](https://store.pesapal.com/supportmywork)**
-
-I appreciate Thank you. 
 
 ---
 
