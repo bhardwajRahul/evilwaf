@@ -20,6 +20,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/matrixleons/evilwaf",
     license="Apache-2.0",
+    py_modules=["evilwaf"],
     packages=find_packages(exclude=["tests*", "media*"]),
     ext_modules=[fast_scanner_ext],
     python_requires=">=3.8",
